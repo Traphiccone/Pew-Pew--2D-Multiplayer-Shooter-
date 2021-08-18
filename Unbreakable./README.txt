@@ -1,4 +1,4 @@
-Members:
+﻿Members:
 Debayan Deb, Philip Johnson, Chase Grove, David Powers, Tyler Lux 
 
 CONTRIBUTIONS
