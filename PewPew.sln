@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Unbreakable", "Unbreakable\Unbreakable\Unbreakable.csproj", "{AD710E20-B561-4771-9AFA-9ACFE5AB288B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnbreakableContent", "Unbreakable\UnbreakableContent\UnbreakableContent.contentproj", "{F8AF3C77-5E7D-4887-BDD0-874FCC1B1A68}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AD710E20-B561-4771-9AFA-9ACFE5AB288B}.Debug|x86.ActiveCfg = Debug|x86
+		{AD710E20-B561-4771-9AFA-9ACFE5AB288B}.Debug|x86.Build.0 = Debug|x86
+		{AD710E20-B561-4771-9AFA-9ACFE5AB288B}.Release|x86.ActiveCfg = Release|x86
+		{AD710E20-B561-4771-9AFA-9ACFE5AB288B}.Release|x86.Build.0 = Release|x86
+		{F8AF3C77-5E7D-4887-BDD0-874FCC1B1A68}.Debug|x86.ActiveCfg = Debug|x86
+		{F8AF3C77-5E7D-4887-BDD0-874FCC1B1A68}.Release|x86.ActiveCfg = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
